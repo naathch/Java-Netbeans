@@ -3,7 +3,7 @@
  * @author naathch
  */
 import java.util.Arrays;
-public class Ejercicio17 {
+public class excercise_2 {
 
     public static void main(String[] args) {
         int[] A = {1, 2, 3, 4};
